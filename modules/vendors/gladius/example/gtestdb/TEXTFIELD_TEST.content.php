@@ -1,0 +1,1 @@
+<?php die;?>a:2:{i:0;s:53:"Generosity and perfection are your everlasting goals.";i:1;s:75:"Your mode of life will be changed for the better because of good news soon.";}

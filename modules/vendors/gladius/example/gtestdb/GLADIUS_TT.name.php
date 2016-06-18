@@ -1,0 +1,1 @@
+<?php die;?>a:4:{i:0;s:12:"Test value 1";i:1;s:12:"Test value 2";i:2;s:12:"Test value 3";i:3;s:11:"Working set";}

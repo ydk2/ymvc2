@@ -1,0 +1,1 @@
+<?php die;?>a:1:{s:6:"TABLES";a:3:{i:0;s:10:"GLADIUS_TT";i:1;s:9:"PHONEBOOK";i:2;s:14:"TEXTFIELD_TEST";}}

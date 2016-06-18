@@ -1,0 +1,13 @@
+
+
+Gladius v0.8 database folder
+
+This folder contains data files (saved with .php extension) managed by
+the Gladius DB engine. Manual editing of these files may result in data
+corruption.
+
+For more information about Gladius DB visit
+
+http://gladius.sourceforge.net/
+
+
