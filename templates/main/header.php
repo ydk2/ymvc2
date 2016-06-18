@@ -71,8 +71,7 @@ if($this->Controller(SCONTROLLER."Theme",Config::$data['models'][0])):
 <div class="container">
   <div class="jumbotron">
     <h1><?=$this ->ViewData('title') ?> <small><?=$this ->ViewData('subtitle') ?></small></h1>
-    <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing
-    responsive, mobile-first projects on the web.</p>
+    <p>Framework and content management system with Bootstrap 3 support .</p>
   </div>
 </div>
 
